@@ -1,4 +1,4 @@
-# Car-Number-Plate-deection
+# Car-Number-Plate-detection
 Aim
 
 We are detecting number plates and recognize car using MAT-LAB software 
